@@ -1,7 +1,6 @@
 The Book of Awesomeness
 ============
 
-![alt tag](https://gallery.mailchimp.com/c791cf5ee38a7c35b2c5a5c39/images/382f373c-6499-4e4d-b050-e4f876ba7f1c.jpg)
 <img style="float: center" src="https://gallery.mailchimp.com/c791cf5ee38a7c35b2c5a5c39/images/382f373c-6499-4e4d-b050-e4f876ba7f1c.jpg">
 
 The world is advancing today, with new technologies that come up; it is no more the ancient world of manual work. Its time where robots and complex technologies do things we have always dreamt of. The roots of this technology are embedded deep within their circuits. Every technological device is perfectly woven in threads of wires and complex circuits. With all the wires and complex structures, it is challenging to make a circuit if you wish to innovate a new device. But what if you can just draw it out!
